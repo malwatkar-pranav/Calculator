@@ -3,6 +3,7 @@
 A modern, feature-rich scientific calculator built with HTML, CSS, and JavaScript. This calculator provides both basic arithmetic operations and advanced scientific functions in a clean, responsive interface.
 
 ## 🚀 Features
+**Live Link** : https://calculator-pdlurfurh-pranavs-projects-094f6776.vercel.app/
 
 ### Basic Operations
 - **Arithmetic**: Addition (+), Subtraction (-), Multiplication (×), Division (/)
